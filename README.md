@@ -5,13 +5,13 @@
 
 ## 🚀 About Me
 
-I'm Dinesh ,welcome to my GitHube Page.Hi, I am Dinesh currently pursuing my B.E in Computer Science Engineering from New LJIET.
+I'm Dinesh, welcome to my GitHub Page. Hi, I am Dinesh, pursuing my B.E. in Computer Science Engineering from New LJIET.
 
-I have keen interest in Web Development and Data Structures and Algorithms. I am currently in 2nd year of my engineering.
+I have a keen interest in Web Development and Data Structures and Algorithms. I am currently in 3rd year of my engineering.
 
 I am a quick learner with great communication skills.
 
-You can reach me out via my email: prajapatidinesh313@gmail.com
+You can reach me via my email: prajapatidinesh313@gmail.com
 
 
 
@@ -22,7 +22,7 @@ Javascript, HTML, CSS, C language, Data Structure, Operating system, Object Orie
 ## 💻 Currently working
 👩‍💻 I'm currently working on... Web Developer
 
-🧠 I'm currently learning...Java,DSA,Web Development
+🧠 I'm currently learning...Java, DSA,Web Development
 
 📫 How to reach me...
 
