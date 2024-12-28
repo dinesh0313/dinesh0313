@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I'm Dinesh, welcome to my GitHub Page. Hi, I am Dinesh, pursuing my B.E. in Computer Science Engineering from New LJIET.
+I'm Dinesh, welcome to my GitHub Page. Hi, I am Dinesh, and I am pursuing my B.E. in Computer Science Engineering at New LJIET.
 
-I have a keen interest in Web Development and Data Structures and Algorithms. I am currently in 3rd year of my engineering.
+I am keenly interested in Web Development, Data Structures, and Algorithms. I am currently in my Final year of engineering.
 
 I am a quick learner with great communication skills.
 
@@ -16,7 +16,7 @@ You can reach me via my email: prajapatidinesh313@gmail.com
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C language, Data Structure, Operating system, Object Oriented Programming.
+Javascript, HTML, CSS, C language, Data Structure, Operating system, Object Oriented Programming, MERN Stack, GIT and GitHub 
 
 
 ## 💻 Currently working
